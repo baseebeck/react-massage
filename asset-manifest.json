@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-massage/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/react-massage/static/js/main.af147205.chunk.js",
+    "main.js.map": "/react-massage/static/js/main.af147205.chunk.js.map",
+    "runtime-main.js": "/react-massage/static/js/runtime-main.0361c8aa.js",
+    "runtime-main.js.map": "/react-massage/static/js/runtime-main.0361c8aa.js.map",
+    "static/js/2.35f0ce17.chunk.js": "/react-massage/static/js/2.35f0ce17.chunk.js",
+    "static/js/2.35f0ce17.chunk.js.map": "/react-massage/static/js/2.35f0ce17.chunk.js.map",
+    "index.html": "/react-massage/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/react-massage/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.35f0ce17.chunk.js.LICENSE.txt": "/react-massage/static/js/2.35f0ce17.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/react-massage/static/media/calendar.a40c9370.svg",
+    "static/media/dog-walk.svg": "/react-massage/static/media/dog-walk.7b233e61.svg",
+    "static/media/happy.c87daa67.svg": "/react-massage/static/media/happy.c87daa67.svg",
+    "static/media/slow-rain.7b286be9.mp4": "/react-massage/static/media/slow-rain.7b286be9.mp4",
+    "static/media/swing.svg": "/react-massage/static/media/swing.3344a7ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0361c8aa.js",
+    "static/js/2.35f0ce17.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.af147205.chunk.js"
+  ]
+}
